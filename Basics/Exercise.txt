@@ -1,0 +1,5 @@
+1. The terminal is a command line in which you are able to type in your commands and those codes are like instructions for your computer to follow and complete the task you are wanting it to do.
+
+2. The difference between Git and Github is that Github is an online tool that can be used by developers to make an unlimited amount of public repositories that is able to store their code in one location. Git is decentralized and distributed server. An open source tool that is local and able to manage code. Developers use Git to manage a variety of versions of code edits before uploading them in a repository.
+
+3. We use Github because with it, we are able to upload our code from our terminal into a repository to where it is kept safe and in one location.
